@@ -9,7 +9,7 @@ Built at **NEAR HACKATHON** (Nov 2026). Tracks: **Privacy & Private AI** (`priva
 
 | | |
 |---|---|
-| 🌐 **Live demo** (personal agent, English) | https://4f6208e0cb5e85944797f12cb210582e54a2107f-3000.dstack-pha-prod9.phala.network — kept online at least until Nov 25, 2026 |
+| 🌐 **Live demo** (personal agent, English) | https://4f6208e0cb5e85944797f12cb210582e54a2107f-3000.dstack-pha1-prod9.phala.network — kept online at least until Nov 25, 2026 |
 | 🏥🏦 **Demo businesses** | `/demo/?s=clinic` · `/demo/?s=bank` (or the **+** button in the header) |
 | 📺 **Android TV app** | [`tv-latest` release](https://github.com/buterbro-cell/secra/releases/tag/tv-latest) → `secra-tv.apk` (sideload) |
 | 🛡️ **Server attestation (Phala Trust Center)** | https://trust.phala.com/app/a8fa8d779fbe978b9ed7ffda75e01abc952f7ee9 |
